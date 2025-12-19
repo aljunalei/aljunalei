@@ -1,6 +1,6 @@
 ## Hi there, I'm Aljunalei Alfonso👋
 
-I'm a passionate developer, focused on building **intelligent applications**, **deploying and integrating AI models** into user-friendly applications. With a knack for **Machine Learning, Data Engineering, Automation, and Data Exploration**. 
+I'm a passionate developer focused on building **intelligent applications** by **deploying and integrating AI models** into user-friendly interfaces. I also bring hands-on experience with **Machine Learning, Data Engineering, and Data Analysis**.
 
 ---
 
