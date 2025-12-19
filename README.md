@@ -9,7 +9,7 @@ I'm a dedicated Computer Science undergraduate focused on building **intelligent
 - Developing **Computer Vision** solutions (Gesture Control & OCR) using **MediaPipe** and **PaddleOCR**
 - Building **AI-powered Web Apps** with **TensorFlow.js**, **Flask**, and **FastAPI**
 - Integrating **LLMs** (like TinyLlama) into educational platforms
-- Crafting responsive interfaces with **Tailwind CSS**, **React.JS** and **UI/UX principles**
+- Crafting responsive interfaces with **Tailwind CSS**, **React.JS**, and **UI/UX principles**
 
 ---
 
@@ -62,7 +62,7 @@ I'm a dedicated Computer Science undergraduate focused on building **intelligent
 
 ## 📫 Connect with Me
 - ✉️ Email: [alfonsoaljunaleim4@gmail.com](mailto:alfonsoaljunaleim4@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: [linkedin.com/in/aljunalei](https://linkedin.com/in/aljunalei)
 - 🐙 GitHub: [github.com/aljunalei](https://github.com/aljunalei)
 
 ---
