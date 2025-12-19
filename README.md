@@ -1,5 +1,4 @@
 ## Hi there I'm Aljunalei Alfonso👋
-![Profile Banner](https://img.shields.io/badge/Hi-There!-blue?style=for-the-badge&logo=github)  
 
 I'm a dedicated Computer Science undergraduate focused on building **intelligent applications**. I specialize in **deploying and integrating AI models** into user-friendly applications, combining strong **UI/UX design** with powerful backend logic.
 
