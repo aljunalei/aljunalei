@@ -7,7 +7,7 @@ I'm a passionate developer focused on building **intelligent applications** by *
 ## 🔭 Current Focus
 - Developing **Computer Vision** solutions (Gesture Control & OCR) using **MediaPipe** and **PaddleOCR**
 - Building **AI-powered Web Apps** with **TensorFlow.js**, **Flask**, and **FastAPI**
-- Integrating **LLMs** (like TinyLlama) into educational platforms
+- Integrating **LLMs** (like TinyLlama) into Web Applications
 - Crafting responsive interfaces with **Tailwind CSS**, **React.JS**, and **UI/UX principles**
 
 ---
