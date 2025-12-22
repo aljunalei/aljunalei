@@ -51,13 +51,6 @@ I'm a passionate developer focused on building **intelligent applications** by *
 
 ---
 
-## 🚀 Key Projects
-* **PresentAir:** Hybrid AI gesture presentation controller (MediaPipe + TensorFlow.js).
-* **LiPAD:** AI-powered license plate recognition web app (PaddleOCR).
-* **HandQuest Runner:** Gamified gesture-based learning platform.
-* **TypePy:** AI tool for interactive Python coding exercises.
-
----
 
 ## 📫 Connect with Me
 - ✉️ Email: [alfonsoaljunaleim4@gmail.com](mailto:alfonsoaljunaleim4@gmail.com)
