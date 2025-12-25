@@ -1,6 +1,6 @@
 ## Hi there, I'm Aljunalei Alfonso👋
 
-I'm a passionate developer focused on building **intelligent applications** by **deploying and integrating AI models** into user-friendly interfaces. I also bring hands-on experience with **Machine Learning, Data Engineering, and Data Analysis**.
+I'm a passionate developer focused on building **intelligent applications** by **deploying and integrating AI models** into user-friendly interfaces. I also bring hands-on experience with **Machine Learning, Data Engineering, Data Analysis, and AI Automation**.
 
 ---
 
@@ -9,6 +9,7 @@ I'm a passionate developer focused on building **intelligent applications** by *
 - Building **AI-powered Web Apps** with **TensorFlow.js**, **Flask**, and **FastAPI**
 - Integrating **LLMs** (like TinyLlama) into Web Applications
 - Crafting responsive interfaces with **Tailwind CSS**, **React.JS**, and **UI/UX principles**
+- Building Workflows through **AI Automation** with the use of **N8N**
 
 ---
 
