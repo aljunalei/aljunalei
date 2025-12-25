@@ -9,7 +9,7 @@ I'm a passionate developer focused on building **intelligent applications** by *
 - Building **AI-powered Web Apps** with **TensorFlow.js**, **Flask**, and **FastAPI**
 - Integrating **LLMs** (like TinyLlama) into Web Applications
 - Crafting responsive interfaces with **Tailwind CSS**, **React.JS**, and **UI/UX principles**
-- Building Workflows through **AI Automation** with the use of **N8N**
+- Building Workflows for **AI Automation** with the use of **N8N**
 
 ---
 
