@@ -43,15 +43,6 @@ My technical focus is on **engineering intelligent applications**. I specialize 
 
 ---
 
-## Featured Projects
-
-| PresentAir | Autobooks | Archify |
-|:---:|:---:|:---:|
-| **Touchless AI Presentation Tool** | **SaaS Landing Page & Automation** | **Social Photo Mobile App** |
-| ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00) ![React](https://img.shields.io/badge/-React-61DAFB) | ![Next.js](https://img.shields.io/badge/-Next.js-000000) ![n8n](https://img.shields.io/badge/-n8n-EA4B71) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E) ![Flutter](https://img.shields.io/badge/-Flutter-02569B) |
-
----
-
 ## Connect
 <p align="left">
 <a href="https://linkedin.com/in/aljunalei">
