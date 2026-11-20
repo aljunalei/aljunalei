@@ -1,5 +1,5 @@
 ## Aljunalei Alfonso
-### AI Engineer | Machine Learning, Computer Vision, LLMs & AI Agents
+### Software Developer | AI Engineer & Machine Learning Engineer | AI Automation, AI Agents & LLMs
 
 I build AI that works in real products, not just in notebooks. My background covers deep learning research, LLM and agent workflows, and production full-stack development.
 
